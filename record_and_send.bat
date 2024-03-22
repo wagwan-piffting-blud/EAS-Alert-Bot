@@ -38,7 +38,7 @@ type alert_temp.txt >> alert_log.txt
 set /p msg= < alert_temp.txt
 
 REM Call curl to send the Discord message.
-curl -H "Content-Type: application/json" -d "{\"username\": \"EAS Alerts\", \"content\":\"%msg%\", \"avatar_url\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EAS_new.svg/888px-EAS_new.svg.png\"}" %WEBHOOK_URL%
+curl -H "Content-Type: application/json" -d "{\"username\": \"EAS Alerts\", \"content\":\"%msg%\", \"avatar_url\": \"https://wagspuzzle.space/assets/easlogo.png\"}" %WEBHOOK_URL%
 
 REM Delete temporary alert file.
 del /F /Q alert_temp.txt
