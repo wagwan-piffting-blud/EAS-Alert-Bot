@@ -1,5 +1,7 @@
 # EAS Alert Bot
 
+![EAS Logo](https://github.com/wagwan-piffting-blud/EAS-Alert-Bot/blob/main/easlogo.png)
+
 _What_ is this?
 ---
 This is a small bot for recording and relaying, in near real time, United States Emergency Alert System alerts to a Discord webhook, using the [SAMEDec](https://lib.rs/crates/samedec) Rust package, ffmpeg, cURL, and [dsame3](https://github.com/jamieden/dsame3). This is how it works (roughly):
