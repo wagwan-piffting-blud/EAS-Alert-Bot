@@ -1,3 +1,5 @@
+# 2025-09-25: Archived due to inactivity, and something more powerful in the works. Check back at a later date for a more proper software ENDEC.
+
 # EAS Alert Bot
 
 ![EAS Logo](https://github.com/wagwan-piffting-blud/EAS-Alert-Bot/blob/main/easlogo.png)
@@ -38,3 +40,4 @@ Like SAMEDec and dsame3's README's state: **THIS BOT IS NOT FOR USE IN SAFETY-CR
 _Who_ am I?
 ---
 I'm Wags, and I make a variety of things for the Internet. You can find my personal website [here](https://wagspuzzle.space/). I even have a blog (BlARG) post about the EAS [located here](https://wagspuzzle.space/blarg/2023-03-09-eas/) for your perusal.
+
